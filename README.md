@@ -3,7 +3,7 @@
 Application developed for the course "Algorithms and Data Structures" of the Polytechnic of Milan.
 
 ## Goal
-The main goal of the project is to create a system that checks the correspondence between two words of same length.
+The main goal of the project is to create a system that checks the correspondence between two words of same length by using some optimized algorithms and data structures. The quality of the application is measured using some test cases making sure to complete the execution within predefined time and space limits.
 
 ## Description
 The application takes in input the words length and the set of words (dictionary) that will be used during the execution.
